@@ -1,5 +1,5 @@
 # E-Commerce-app
-Note: still adding some features uploading when i'm done
+Note: not finished yet uploading when i'm done
 
 - this app was created usin clean architecture with BLoC state management.
 - the app consume REST API laravel as backend to send and restore user information from MySQL Database.

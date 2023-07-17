@@ -1,4 +1,4 @@
-# E-Commerce-app 
+# Ecommerce App 
 - this app was created usin clean architecture with BLoC state management.
 - the app consume REST API laravel as backend to send and restore user information from MySQL Database.
 - the shop items data is from an API.
